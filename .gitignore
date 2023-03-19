@@ -1,0 +1,36 @@
+# Java specific
+*.class
+*.jar
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Logs and databases #
+#######################
+*.log
+*.sqlite
+*.sql
+*.db
+*.h2.db
+
+# OS generated files #
+######################
+.DS_Store
+Thumbs.db
+
+
+# IntelliJ IDEA specific #
+##########################
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+build/
+target/
